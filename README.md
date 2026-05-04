@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="left">⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂ ⠂⠄⠄⠂☆</h1>
 
-<!--
-**callmeapollon/callmeapollon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/labeaubeau">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=labeaubeau&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
